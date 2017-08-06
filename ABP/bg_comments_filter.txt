@@ -33,3 +33,5 @@ ajaxResponder.php
 !--- dnes.bg ---!
 ##div#comments-frame
 ##a.com
+###div#comments-header
+##div#comments-frame
